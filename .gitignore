@@ -4,3 +4,4 @@
 data/population.geojson
 tiles/population.pmtiles
 tiles_xyz/population/
+data/poi.geojson
