@@ -1,0 +1,6 @@
+.DS_Store
+
+# Bevölkerungsdaten bleiben lokal
+data/population.geojson
+tiles/population.pmtiles
+tiles_xyz/population/
